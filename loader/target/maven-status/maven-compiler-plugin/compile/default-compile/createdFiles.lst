@@ -1,0 +1,7 @@
+com/fireflying/loader/FileLoader.class
+com/fireflying/loader/Fire.class
+com/fireflying/loader/FireClassLoader.class
+com/fireflying/loader/CustomFileTransformer.class
+com/fireflying/loader/Launcher.class
+com/fireflying/loader/CustomClassVisitor.class
+com/fireflying/loader/CustomClassVisitor$CustomMethodVisitor.class

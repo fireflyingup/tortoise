@@ -1,0 +1,4 @@
+com/fireflying/engine/Launcher.class
+com/fireflying/engine/transformer/visitor/PluginMethodVisitor.class
+com/fireflying/engine/transformer/PluginTransformer.class
+com/fireflying/engine/transformer/visitor/PluginClassVisitor.class
